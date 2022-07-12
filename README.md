@@ -1,2 +1,2 @@
-# Desaf-o5-Full-Responsive-Herrera-Cristian
-Entrega del quinto desafío CoderHouse - "Full Responsive" - Desarrollo web Comisión 37690.
+# Desafio-o6-Herrera-Cristian
+Entrega del sexto desafío CoderHouse - "Crear repositorio en GitHub" - Desarrollo web Comisión 37690.
